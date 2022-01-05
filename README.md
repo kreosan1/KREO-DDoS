@@ -1,11 +1,11 @@
 <p align="center"><img src="./screenshot/logo.ico" width="150px" height="150px" alt="aventium softworks"></p>
 
-<h1 align="center">MHDDoS - DDoS Attack Script With 36 Method</h1>
+<h1 align="center">KREO-DDoS - пародия на MHDDoS 36 методов атаки.</h1>
 
 <em><h5 align="center">(Code Lang - Python 3)</h5></em>
 
 
-<p align="center">Please Don't Hit '.gov'  and '.ir' Websites :)</p>
+<p align="center">Есть шансы ушатать даже хорошо настроеный фаервол на клауд флаере)))</p>
 
 <p align="center"><img src="https://i.imgur.com/aNrHJcA.png" width="1078" height="433" alt="POWER"></p>
 <p align="center"><img src="https://i.imgur.com/ueDhdte.png" width="1078" height="296" alt="SCRIPT"></p>
@@ -65,7 +65,7 @@
  * [GitHub][github]
 #### Like the project? Leave a ⭐ star on the repository!
 
-## Downloads
+## Оригинал:
 
 You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/releases)
 
@@ -95,8 +95,8 @@ You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/relea
 **Clone and Install Script**
 
 ```console
-git clone https://github.com/MHProDev/MHDDoS.git
-cd MHDDoS
+git clone https://github.com/kreosan1/KREO-DDoS.git
+cd KREO-DDoS
 pip3 install -r requirements.txt
 ```
 
@@ -106,7 +106,7 @@ pip3 install -r requirements.txt
 
 ```console
 python3 start.py
-python3 start.py bypass https://example.com 5 1000 socks5.txt 100 100
+python3 start.py CFB https://example.com 5 1000 socks5.txt 100 100
 ```
 
 [python3]: https://python.org 'Python3'
@@ -116,3 +116,8 @@ python3 start.py bypass https://example.com 5 1000 socks5.txt 100 100
 * https://idpay.ir/mh-prodev
 * bitcoincash:qrwytj0aghszlqmfnku2h5ms4fad567ueg5g9dn2nu
 
+**Пародия от KREOSAN чем он лучше оригинала? А именно тем что здесь присутствуют российские и украинские прокси сервера ну как их использовать я думаю вы сами догадываетесь)))**
+
+
+**P.S привет, Дима.**
+**Я знаю что ты здесь)**
